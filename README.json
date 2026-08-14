@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:31:03Z",
+            "last_commit": "2026-08-14T13:06:01Z",
             "owner": "DeepLabCut",
             "repo": "DeepLabCut",
             "stars": 5735
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-12T23:13:23Z",
             "owner": "mne-tools",
             "repo": "mne-python",
-            "stars": 3481
+            "stars": 3482
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T13:55:28Z",
+            "last_commit": "2026-08-14T10:57:11Z",
             "owner": "psychopy",
             "repo": "psychopy",
-            "stars": 2063
+            "stars": 2064
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-09T07:00:29Z",
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1692
+            "stars": 1693
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T12:55:26Z",
+            "last_commit": "2026-08-14T13:04:41Z",
             "owner": "nilearn",
             "repo": "nilearn",
             "stars": 1424
@@ -89,7 +89,7 @@
             "last_commit": "2026-08-01T09:02:50Z",
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1214
+            "stars": 1215
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2026-08-12T09:54:17Z",
             "owner": "nipreps",
             "repo": "fmriprep",
-            "stars": 744
+            "stars": 743
           }
         },
         {
@@ -198,10 +198,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T17:32:56Z",
+            "last_commit": "2026-08-14T08:30:10Z",
             "owner": "thousandbrainsproject",
             "repo": "tbp.monty",
-            "stars": 575
+            "stars": 576
           }
         },
         {
@@ -212,7 +212,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T17:16:37Z",
+            "last_commit": "2026-08-14T15:18:04Z",
             "owner": "neuronsimulator",
             "repo": "nrn",
             "stars": 534
@@ -386,7 +386,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78081
+            "stars": 78092
           }
         },
         {
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:28:24.952Z",
+    "last_updated": "2026-08-14T19:16:51.092Z",
     "original_repository": "analyticalmonk/awesome-neuroscience",
     "original_repository_sha": "33ca06398bff26a53a913f0ea7a600e5e18164eb",
     "enhanced_repository": "enhansome/enhansome-neuroscience",
