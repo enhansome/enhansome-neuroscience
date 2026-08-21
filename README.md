@@ -8,7 +8,7 @@
 
 [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience) is the study of how the nervous system develops, its structure, and what it does. Neuroscientists focus on the brain and its impact on behavior and cognitive functions. Traditionally, neuroscience has been seen as a branch of biology, but it has grown to encompass a wide range of interdisciplinary fields that work together toward elucidating brain function at multiple levels of investigation.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,179 | 🐛 105 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,590 | 🐛 105 | 📅 2026-08-21
 
 ## Contents
 
@@ -32,28 +32,28 @@ Software, libraries and frameworks for development purposes.
 
 ### Python
 
-* [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,742 | 🐛 50 | 🌐 Python | 📅 2026-08-20 - Markerless pose estimation toolkit for animal behavior analysis using transfer learning with deep neural networks.
-* [MNE-Python](https://github.com/mne-tools/mne-python) ⭐ 3,491 | 🐛 638 | 🌐 Python | 📅 2026-08-19 - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
-* [PsychoPy](https://github.com/psychopy/psychopy) ⭐ 2,069 | 🐛 183 | 🌐 Python | 📅 2026-08-20 - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
+* [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,742 | 🐛 52 | 🌐 Python | 📅 2026-08-21 - Markerless pose estimation toolkit for animal behavior analysis using transfer learning with deep neural networks.
+* [MNE-Python](https://github.com/mne-tools/mne-python) ⭐ 3,488 | 🐛 638 | 🌐 Python | 📅 2026-08-21 - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
+* [PsychoPy](https://github.com/psychopy/psychopy) ⭐ 2,067 | 🐛 181 | 🌐 Python | 📅 2026-08-21 - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
 * [BindsNET](https://github.com/Hananel-Hazan/bindsnet) ⭐ 1,695 | 🐛 15 | 🌐 Python | 📅 2026-08-20 - Package for simulating spiking neural networks for reinforcement & machine learning.
-* [Nilearn](https://github.com/nilearn/nilearn) ⭐ 1,426 | 🐛 288 | 🌐 Python | 📅 2026-08-20 - Module for performing statistical learning/machine learning on NeuroImaging data.
-* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,218 | 🐛 205 | 🌐 Python | 📅 2026-08-01 - Free, open source simulator for spiking neural networks.
+* [Nilearn](https://github.com/nilearn/nilearn) ⭐ 1,424 | 🐛 290 | 🌐 Python | 📅 2026-08-21 - Module for performing statistical learning/machine learning on NeuroImaging data.
+* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,219 | 🐛 205 | 🌐 Python | 📅 2026-08-01 - Free, open source simulator for spiking neural networks.
 * [Nengo](https://github.com/nengo/nengo) ⭐ 940 | 🐛 140 | 🌐 Python | 📅 2026-08-02 - Library for creating and simulating large-scale brain models.
-* [DIPY](https://github.com/nipy/dipy) ⭐ 835 | 🐛 120 | 🌐 Python | 📅 2026-08-20 - Toolbox for analysis of MR diffusion imaging.
+* [DIPY](https://github.com/nipy/dipy) ⭐ 835 | 🐛 127 | 🌐 Python | 📅 2026-08-21 - Toolbox for analysis of MR diffusion imaging.
 * [Nipype](https://github.com/nipy/nipype) ⭐ 834 | 🐛 433 | 🌐 Python | 📅 2026-07-20 - Workflow engine providing a uniform Python interface to existing neuroimaging packages (FSL, FreeSurfer, AFNI, SPM, ANTs) and flexible pipeline composition.
 * [SpikeInterface](https://github.com/SpikeInterface/spikeinterface) ⭐ 829 | 🐛 339 | 🌐 Python | 📅 2026-08-13 - Framework designed to unify spike-sorting technologies
 * [NiBabel](https://github.com/nipy/nibabel) ⭐ 787 | 🐛 157 | 🌐 Python | 📅 2026-08-03 - Provides read and write access to some common medical and neuroimaging file formats.
-* [fMRIPrep](https://github.com/nipreps/fmriprep) ⭐ 745 | 🐛 340 | 🌐 HTML | 📅 2026-08-20 - Robust preprocessing pipeline for fMRI data that adapts to nearly any dataset and produces analysis-ready outputs with minimal manual intervention.
+* [fMRIPrep](https://github.com/nipreps/fmriprep) ⭐ 744 | 🐛 341 | 🌐 HTML | 📅 2026-08-20 - Robust preprocessing pipeline for fMRI data that adapts to nearly any dataset and produces analysis-ready outputs with minimal manual intervention.
 * [CaImAn](https://github.com/flatironinstitute/CaImAn) ⭐ 731 | 🐛 101 | 🌐 Python | 📅 2026-08-02 - Computational toolbox for large-scale calcium imaging data analysis, including motion correction, source extraction, and deconvolution.
-* [Monty](https://github.com/thousandbrainsproject/tbp.monty) ⭐ 578 | 🐛 72 | 🌐 Python | 📅 2026-08-20 - Sensorimotor learning framework based on the thousand brains theory of the neocortex.
-* [NEURON](https://github.com/neuronsimulator/nrn) ⭐ 535 | 🐛 472 | 🌐 C++ | 📅 2026-08-20 - Simulation environment for modeling individual neurons and networks of neurons, widely used in computational and systems neuroscience.
-* [Suite2p](https://github.com/MouseLand/suite2p) ⭐ 469 | 🐛 58 | 🌐 Python | 📅 2026-08-19 - Pipeline for cell detection and signal extraction from large-scale two-photon calcium imaging recordings.
+* [Monty](https://github.com/thousandbrainsproject/tbp.monty) ⭐ 579 | 🐛 71 | 🌐 Python | 📅 2026-08-20 - Sensorimotor learning framework based on the thousand brains theory of the neocortex.
+* [NEURON](https://github.com/neuronsimulator/nrn) ⭐ 535 | 🐛 476 | 🌐 C++ | 📅 2026-08-21 - Simulation environment for modeling individual neurons and networks of neurons, widely used in computational and systems neuroscience.
+* [Suite2p](https://github.com/MouseLand/suite2p) ⭐ 470 | 🐛 58 | 🌐 Python | 📅 2026-08-19 - Pipeline for cell detection and signal extraction from large-scale two-photon calcium imaging recordings.
 * [AllenSDK](https://github.com/AllenInstitute/AllenSDK) ⭐ 395 | 🐛 382 | 🌐 Jupyter Notebook | 📅 2026-07-06 - Toolkit for accessing and processing data from the Allen Institute for Brain Science, including the Allen Brain Atlas and Allen Brain Observatory.
 * [Neo](https://github.com/NeuralEnsemble/python-neo) ⭐ 362 | 🐛 171 | 🌐 Python | 📅 2026-08-11 - Package for representing electrophysiology data in Python, with readers for a wide range of neurophysiology file formats.
 * [Nitime](https://github.com/nipy/nitime) ⭐ 261 | 🐛 19 | 🌐 Python | 📅 2026-08-15 - Timeseries analysis for neuroscience data.
 * [Elephant](https://github.com/NeuralEnsemble/elephant) ⭐ 244 | 🐛 45 | 🌐 Python | 📅 2026-06-21 - Library for the analysis of electrophysiology data, providing tools for spike train statistics, signal processing, and connectivity analysis.
 * [PyNWB](https://github.com/NeurodataWithoutBorders/pynwb) ⭐ 224 | 🐛 286 | 🌐 Python | 📅 2026-08-19 - Python API for reading and writing Neurodata Without Borders (NWB) files, the community standard data format for cellular-based neurophysiology data.
-* [expyriment](https://github.com/expyriment/expyriment) ⭐ 137 | 🐛 4 | 🌐 Python | 📅 2026-08-18 - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
+* [expyriment](https://github.com/expyriment/expyriment) ⭐ 138 | 🐛 4 | 🌐 Python | 📅 2026-08-18 - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
 * [PyNoetic](https://github.com/NeuroDiag/PyNoetic-official) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2026-06-03 - A Modular Python Framework for No-Code Development of EEG Brain-Computer Interfaces supporting end-to-end BCI design.
 * [NiMARE](https://nimare.readthedocs.io/en/latest/) - NiMARE is a Python package for neuroimaging meta-analyses
 
@@ -105,7 +105,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 * [Introduction to Neuroscience | MIT OCW](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/) - Introduction to the mammalian nervous system, with emphasis on the structure and function of the human brain.
 * [Computational Neuroscience | Coursera](https://www.coursera.org/learn/computational-neuroscience) - Provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function.
 * [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) - Explores the functional organization and neurophysiology of the human central nervous system, while providing a neurobiological framework for understanding human behavior.
-* [Neuromatch Academy](https://github.com/NeuromatchAcademy/course-content) ⭐ 3,112 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2026-07-14 - Jupyter notebooks for the three-week intensive summer school in computational neuroscience.
+* [Neuromatch Academy](https://github.com/NeuromatchAcademy/course-content) ⭐ 3,113 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2026-07-14 - Jupyter notebooks for the three-week intensive summer school in computational neuroscience.
 
 ### Communities
 
@@ -121,7 +121,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 
 ### Miscellaneous
 
-* [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) ⭐ 78,257 | 🐛 159 | 📅 2026-08-04 - High-quality open neuroscience datasets.
+* [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) ⭐ 78,375 | 🐛 159 | 📅 2026-08-21 - High-quality open neuroscience datasets.
 * [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) ⭐ 229 | 🐛 3 | 🌐 Python | 📅 2019-05-10 - List of summer (and seasonal) summer schools in neuroscience and related fields.
 * [SORTED](https://github.com/PTDZ/SORTED) ⭐ 27 | 🐛 0 | 📅 2025-08-10 - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
 * [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - Simulator for a historical computational model based on neurons.
@@ -146,4 +146,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

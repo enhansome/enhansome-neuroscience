@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 126897385,
                 "language": "Python",
-                "last_commit": "2026-08-20T14:54:07Z",
+                "last_commit": "2026-08-21T08:56:48Z",
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5742
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 1301584,
                 "language": "Python",
-                "last_commit": "2026-08-19T18:52:20Z",
+                "last_commit": "2026-08-21T15:12:04Z",
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3491
+                "stars": 3488
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 879116,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:28:38Z",
+                "last_commit": "2026-08-21T09:40:42Z",
                 "owner": "psychopy",
                 "repo": "psychopy",
-                "stars": 2069
+                "stars": 2067
               }
             },
             {
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 1235740,
                 "language": "Python",
-                "last_commit": "2026-08-20T14:10:52Z",
+                "last_commit": "2026-08-21T13:46:33Z",
                 "owner": "nilearn",
                 "repo": "nilearn",
-                "stars": 1426
+                "stars": 1424
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-01T09:02:50Z",
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1218
+                "stars": 1219
               }
             },
             {
@@ -119,7 +119,7 @@
                 "archived": false,
                 "id": 505209,
                 "language": "Python",
-                "last_commit": "2026-08-20T16:03:49Z",
+                "last_commit": "2026-08-21T13:48:10Z",
                 "owner": "dipy",
                 "repo": "dipy",
                 "stars": 835
@@ -182,7 +182,7 @@
                 "last_commit": "2026-08-20T19:02:22Z",
                 "owner": "nipreps",
                 "repo": "fmriprep",
-                "stars": 745
+                "stars": 744
               }
             },
             {
@@ -209,10 +209,10 @@
                 "archived": false,
                 "id": 887977189,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:53:54Z",
+                "last_commit": "2026-08-20T23:42:35Z",
                 "owner": "thousandbrainsproject",
                 "repo": "tbp.monty",
-                "stars": 578
+                "stars": 579
               }
             },
             {
@@ -224,7 +224,7 @@
                 "archived": false,
                 "id": 71627569,
                 "language": "C++",
-                "last_commit": "2026-08-20T18:24:51Z",
+                "last_commit": "2026-08-21T13:40:08Z",
                 "owner": "neuronsimulator",
                 "repo": "nrn",
                 "stars": 535
@@ -242,7 +242,7 @@
                 "last_commit": "2026-08-19T18:01:21Z",
                 "owner": "MouseLand",
                 "repo": "suite2p",
-                "stars": 469
+                "stars": 470
               }
             },
             {
@@ -332,7 +332,7 @@
                 "last_commit": "2026-08-18T13:05:09Z",
                 "owner": "expyriment",
                 "repo": "expyriment",
-                "stars": 137
+                "stars": 138
               }
             },
             {
@@ -409,10 +409,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-04T19:54:53Z",
+                "last_commit": "2026-08-21T17:12:16Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78257
+                "stars": 78375
               }
             },
             {
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:03:03.056Z",
+    "last_updated": "2026-08-21T18:59:09.932Z",
     "original_repository": "analyticalmonk/awesome-neuroscience",
     "original_repository_id": 87163730,
     "original_repository_sha": "33ca06398bff26a53a913f0ea7a600e5e18164eb",
