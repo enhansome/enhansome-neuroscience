@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T08:56:48Z",
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5742
+                "stars": 5743
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 1301584,
                 "language": "Python",
-                "last_commit": "2026-08-21T15:12:04Z",
+                "last_commit": "2026-08-21T19:17:49Z",
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3488
+                "stars": 3491
               }
             },
             {
@@ -119,7 +119,7 @@
                 "archived": false,
                 "id": 505209,
                 "language": "Python",
-                "last_commit": "2026-08-21T13:48:10Z",
+                "last_commit": "2026-08-22T05:31:47Z",
                 "owner": "dipy",
                 "repo": "dipy",
                 "stars": 835
@@ -314,7 +314,7 @@
                 "archived": false,
                 "id": 99273369,
                 "language": "Python",
-                "last_commit": "2026-08-19T16:55:58Z",
+                "last_commit": "2026-08-21T20:16:41Z",
                 "owner": "NeurodataWithoutBorders",
                 "repo": "pynwb",
                 "stars": 224
@@ -412,7 +412,7 @@
                 "last_commit": "2026-08-21T17:12:16Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78375
+                "stars": 78472
               }
             },
             {
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:59:09.932Z",
+    "last_updated": "2026-08-22T18:51:14.912Z",
     "original_repository": "analyticalmonk/awesome-neuroscience",
     "original_repository_id": 87163730,
     "original_repository_sha": "33ca06398bff26a53a913f0ea7a600e5e18164eb",
