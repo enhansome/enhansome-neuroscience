@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 1301584,
                 "language": "Python",
-                "last_commit": "2026-08-21T19:17:49Z",
+                "last_commit": "2026-08-23T08:38:56Z",
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3491
+                "stars": 3492
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-21T09:40:42Z",
                 "owner": "psychopy",
                 "repo": "psychopy",
-                "stars": 2067
+                "stars": 2068
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-01T09:02:50Z",
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1219
+                "stars": 1220
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2026-08-03T21:58:31Z",
                 "owner": "nipy",
                 "repo": "nibabel",
-                "stars": 787
+                "stars": 788
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2026-08-02T21:54:19Z",
                 "owner": "flatironinstitute",
                 "repo": "CaImAn",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2026-08-21T13:40:08Z",
                 "owner": "neuronsimulator",
                 "repo": "nrn",
-                "stars": 535
+                "stars": 536
               }
             },
             {
@@ -239,7 +239,7 @@
                 "archived": false,
                 "id": 141175642,
                 "language": "Python",
-                "last_commit": "2026-08-19T18:01:21Z",
+                "last_commit": "2026-08-23T18:10:35Z",
                 "owner": "MouseLand",
                 "repo": "suite2p",
                 "stars": 470
@@ -257,7 +257,7 @@
                 "last_commit": "2026-07-06T18:13:56Z",
                 "owner": "AllenInstitute",
                 "repo": "AllenSDK",
-                "stars": 395
+                "stars": 396
               }
             },
             {
@@ -412,7 +412,7 @@
                 "last_commit": "2026-08-21T17:12:16Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78472
+                "stars": 78543
               }
             },
             {
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:51:14.912Z",
+    "last_updated": "2026-08-23T18:50:13.423Z",
     "original_repository": "analyticalmonk/awesome-neuroscience",
     "original_repository_id": 87163730,
     "original_repository_sha": "33ca06398bff26a53a913f0ea7a600e5e18164eb",
