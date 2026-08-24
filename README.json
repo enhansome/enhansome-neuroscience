@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 126897385,
                 "language": "Python",
-                "last_commit": "2026-08-21T08:56:48Z",
+                "last_commit": "2026-08-24T12:44:02Z",
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5743
+                "stars": 5745
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 1301584,
                 "language": "Python",
-                "last_commit": "2026-08-23T08:38:56Z",
+                "last_commit": "2026-08-24T12:40:55Z",
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3492
+                "stars": 3494
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 879116,
                 "language": "Python",
-                "last_commit": "2026-08-21T09:40:42Z",
+                "last_commit": "2026-08-24T11:24:13Z",
                 "owner": "psychopy",
                 "repo": "psychopy",
                 "stars": 2068
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 1235740,
                 "language": "Python",
-                "last_commit": "2026-08-21T13:46:33Z",
+                "last_commit": "2026-08-24T07:19:54Z",
                 "owner": "nilearn",
                 "repo": "nilearn",
                 "stars": 1424
@@ -119,7 +119,7 @@
                 "archived": false,
                 "id": 505209,
                 "language": "Python",
-                "last_commit": "2026-08-22T05:31:47Z",
+                "last_commit": "2026-08-24T13:36:01Z",
                 "owner": "dipy",
                 "repo": "dipy",
                 "stars": 835
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-13T06:18:38Z",
                 "owner": "SpikeInterface",
                 "repo": "spikeinterface",
-                "stars": 829
+                "stars": 831
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2026-08-03T21:58:31Z",
                 "owner": "nipy",
                 "repo": "nibabel",
-                "stars": 788
+                "stars": 790
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2026-08-02T21:54:19Z",
                 "owner": "flatironinstitute",
                 "repo": "CaImAn",
-                "stars": 732
+                "stars": 734
               }
             },
             {
@@ -212,7 +212,7 @@
                 "last_commit": "2026-08-20T23:42:35Z",
                 "owner": "thousandbrainsproject",
                 "repo": "tbp.monty",
-                "stars": 579
+                "stars": 580
               }
             },
             {
@@ -224,7 +224,7 @@
                 "archived": false,
                 "id": 71627569,
                 "language": "C++",
-                "last_commit": "2026-08-21T13:40:08Z",
+                "last_commit": "2026-08-24T10:36:23Z",
                 "owner": "neuronsimulator",
                 "repo": "nrn",
                 "stars": 536
@@ -359,6 +359,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "FieldTrip",
+              "description": "Toolbox for MEG and EEG analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7785050,
+                "language": "MATLAB",
+                "last_commit": "2026-08-12T21:45:55Z",
+                "owner": "fieldtrip",
+                "repo": "fieldtrip",
+                "stars": 981
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Matlab"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Brayns",
+              "description": "Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61363694,
+                "language": "C++",
+                "last_commit": "2026-03-12T20:34:59Z",
+                "owner": "BlueBrain",
+                "repo": "Brayns",
+                "stars": 305
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Brainbrowser",
+              "description": "Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17673490,
+                "language": "JavaScript",
+                "last_commit": "2025-11-18T15:08:33Z",
+                "owner": "aces",
+                "repo": "brainbrowser",
+                "stars": 397
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "brainGraph",
               "description": "Package for performing graph theory analyses of brain MRI data.",
               "children": [],
@@ -402,6 +468,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Neuromatch Academy",
+              "description": "Jupyter notebooks for the three-week intensive summer school in computational neuroscience.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262856980,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-14T14:48:31Z",
+                "owner": "NeuromatchAcademy",
+                "repo": "course-content",
+                "stars": 3115
+              }
+            }
+          ],
+          "description": "Massive Open Online Courses (MOOCs) are free Web-based distance learning programs that are designed for the participation of large numbers of geographically dispersed students. MOOCs may be patterned on a college or university course or may be less structured.",
+          "node_type": "group",
+          "title": "MOOCs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Awesome Public Datasets - Neuroscience",
               "description": "High-quality open neuroscience datasets.",
               "children": [],
@@ -409,10 +497,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-21T17:12:16Z",
+                "last_commit": "2026-08-23T23:52:17Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78543
+                "stars": 78582
               }
             },
             {
@@ -455,7 +543,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:50:13.423Z",
+    "last_updated": "2026-08-24T14:08:48.896Z",
     "original_repository": "analyticalmonk/awesome-neuroscience",
     "original_repository_id": 87163730,
     "original_repository_sha": "33ca06398bff26a53a913f0ea7a600e5e18164eb",
