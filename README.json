@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 791477,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:21:05Z",
+                "last_commit": "2026-08-25T01:43:05Z",
                 "owner": "nipy",
                 "repo": "nipype",
                 "stars": 834
@@ -164,7 +164,7 @@
                 "archived": false,
                 "id": 791352,
                 "language": "Python",
-                "last_commit": "2026-08-03T21:58:31Z",
+                "last_commit": "2026-08-24T20:17:32Z",
                 "owner": "nipy",
                 "repo": "nibabel",
                 "stars": 790
@@ -179,7 +179,7 @@
                 "archived": false,
                 "id": 53175327,
                 "language": "HTML",
-                "last_commit": "2026-08-20T19:02:22Z",
+                "last_commit": "2026-08-24T20:53:25Z",
                 "owner": "nipreps",
                 "repo": "fmriprep",
                 "stars": 744
@@ -224,7 +224,7 @@
                 "archived": false,
                 "id": 71627569,
                 "language": "C++",
-                "last_commit": "2026-08-24T17:44:19Z",
+                "last_commit": "2026-08-24T20:20:03Z",
                 "owner": "neuronsimulator",
                 "repo": "nrn",
                 "stars": 536
@@ -314,7 +314,7 @@
                 "archived": false,
                 "id": 99273369,
                 "language": "Python",
-                "last_commit": "2026-08-24T16:34:05Z",
+                "last_commit": "2026-08-24T23:44:30Z",
                 "owner": "NeurodataWithoutBorders",
                 "repo": "pynwb",
                 "stars": 224
@@ -497,10 +497,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-24T18:59:07Z",
+                "last_commit": "2026-08-24T19:56:43Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78589
+                "stars": 78603
               }
             },
             {
@@ -543,7 +543,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:02:20.397Z",
+    "last_updated": "2026-08-25T06:01:54.108Z",
     "original_repository": "analyticalmonk/awesome-neuroscience",
     "original_repository_id": 87163730,
     "original_repository_sha": "33ca06398bff26a53a913f0ea7a600e5e18164eb",
