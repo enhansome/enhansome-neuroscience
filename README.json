@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 126897385,
                 "language": "Python",
-                "last_commit": "2026-08-25T12:02:01Z",
+                "last_commit": "2026-08-26T12:46:37Z",
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5745
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 1301584,
                 "language": "Python",
-                "last_commit": "2026-08-25T18:57:02Z",
+                "last_commit": "2026-08-26T17:40:27Z",
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3494
+                "stars": 3495
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 879116,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:24:13Z",
+                "last_commit": "2026-08-26T14:45:05Z",
                 "owner": "psychopy",
                 "repo": "psychopy",
-                "stars": 2069
+                "stars": 2068
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 1235740,
                 "language": "Python",
-                "last_commit": "2026-08-25T13:53:05Z",
+                "last_commit": "2026-08-26T15:05:57Z",
                 "owner": "nilearn",
                 "repo": "nilearn",
                 "stars": 1425
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-01T09:02:50Z",
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1220
+                "stars": 1221
               }
             },
             {
@@ -119,10 +119,25 @@
                 "archived": false,
                 "id": 505209,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:36:01Z",
+                "last_commit": "2026-08-26T18:39:49Z",
                 "owner": "dipy",
                 "repo": "dipy",
-                "stars": 836
+                "stars": 837
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpikeInterface",
+              "description": "Framework designed to unify spike-sorting technologies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196581117,
+                "language": "Python",
+                "last_commit": "2026-08-25T11:50:13Z",
+                "owner": "SpikeInterface",
+                "repo": "spikeinterface",
+                "stars": 837
               }
             },
             {
@@ -138,21 +153,6 @@
                 "owner": "nipy",
                 "repo": "nipype",
                 "stars": 834
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "SpikeInterface",
-              "description": "Framework designed to unify spike-sorting technologies",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 196581117,
-                "language": "Python",
-                "last_commit": "2026-08-25T11:50:13Z",
-                "owner": "SpikeInterface",
-                "repo": "spikeinterface",
-                "stars": 832
               }
             },
             {
@@ -179,10 +179,10 @@
                 "archived": false,
                 "id": 53175327,
                 "language": "HTML",
-                "last_commit": "2026-08-24T20:53:25Z",
+                "last_commit": "2026-08-26T18:00:35Z",
                 "owner": "nipreps",
                 "repo": "fmriprep",
-                "stars": 744
+                "stars": 745
               }
             },
             {
@@ -209,7 +209,7 @@
                 "archived": false,
                 "id": 887977189,
                 "language": "Python",
-                "last_commit": "2026-08-25T17:22:47Z",
+                "last_commit": "2026-08-26T18:34:56Z",
                 "owner": "thousandbrainsproject",
                 "repo": "tbp.monty",
                 "stars": 580
@@ -224,10 +224,10 @@
                 "archived": false,
                 "id": 71627569,
                 "language": "C++",
-                "last_commit": "2026-08-25T09:26:26Z",
+                "last_commit": "2026-08-26T15:22:02Z",
                 "owner": "neuronsimulator",
                 "repo": "nrn",
-                "stars": 537
+                "stars": 538
               }
             },
             {
@@ -314,7 +314,7 @@
                 "archived": false,
                 "id": 99273369,
                 "language": "Python",
-                "last_commit": "2026-08-25T18:41:45Z",
+                "last_commit": "2026-08-25T23:40:19Z",
                 "owner": "NeurodataWithoutBorders",
                 "repo": "pynwb",
                 "stars": 224
@@ -435,7 +435,7 @@
                 "last_commit": "2024-02-20T16:46:02Z",
                 "owner": "cwatson",
                 "repo": "brainGraph",
-                "stars": 196
+                "stars": 197
               }
             },
             {
@@ -478,7 +478,7 @@
                 "last_commit": "2026-07-14T14:48:31Z",
                 "owner": "NeuromatchAcademy",
                 "repo": "course-content",
-                "stars": 3115
+                "stars": 3118
               }
             }
           ],
@@ -497,10 +497,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-25T16:12:04Z",
+                "last_commit": "2026-08-26T19:45:46Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78630
+                "stars": 78655
               }
             },
             {
@@ -543,7 +543,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T18:59:35.524Z",
+    "last_updated": "2026-08-26T20:05:58.584Z",
     "original_repository": "analyticalmonk/awesome-neuroscience",
     "original_repository_id": 87163730,
     "original_repository_sha": "33ca06398bff26a53a913f0ea7a600e5e18164eb",
