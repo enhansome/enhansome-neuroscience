@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 126897385,
                 "language": "Python",
-                "last_commit": "2026-08-26T12:46:37Z",
+                "last_commit": "2026-08-27T11:00:57Z",
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5745
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 1301584,
                 "language": "Python",
-                "last_commit": "2026-08-26T17:40:27Z",
+                "last_commit": "2026-08-27T10:16:10Z",
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3495
+                "stars": 3496
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 1235740,
                 "language": "Python",
-                "last_commit": "2026-08-26T15:05:57Z",
+                "last_commit": "2026-08-27T11:29:05Z",
                 "owner": "nilearn",
                 "repo": "nilearn",
                 "stars": 1425
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-01T09:02:50Z",
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1221
+                "stars": 1222
               }
             },
             {
@@ -107,22 +107,7 @@
                 "last_commit": "2026-08-02T14:25:10Z",
                 "owner": "nengo",
                 "repo": "nengo",
-                "stars": 940
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "DIPY",
-              "description": "Toolbox for analysis of MR diffusion imaging.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 505209,
-                "language": "Python",
-                "last_commit": "2026-08-26T18:39:49Z",
-                "owner": "dipy",
-                "repo": "dipy",
-                "stars": 837
+                "stars": 941
               }
             },
             {
@@ -137,6 +122,21 @@
                 "last_commit": "2026-08-25T11:50:13Z",
                 "owner": "SpikeInterface",
                 "repo": "spikeinterface",
+                "stars": 838
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DIPY",
+              "description": "Toolbox for analysis of MR diffusion imaging.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 505209,
+                "language": "Python",
+                "last_commit": "2026-08-26T18:39:49Z",
+                "owner": "dipy",
+                "repo": "dipy",
                 "stars": 837
               }
             },
@@ -209,7 +209,7 @@
                 "archived": false,
                 "id": 887977189,
                 "language": "Python",
-                "last_commit": "2026-08-26T18:34:56Z",
+                "last_commit": "2026-08-26T21:30:49Z",
                 "owner": "thousandbrainsproject",
                 "repo": "tbp.monty",
                 "stars": 580
@@ -224,7 +224,7 @@
                 "archived": false,
                 "id": 71627569,
                 "language": "C++",
-                "last_commit": "2026-08-26T15:22:02Z",
+                "last_commit": "2026-08-27T10:04:46Z",
                 "owner": "neuronsimulator",
                 "repo": "nrn",
                 "stars": 538
@@ -314,7 +314,7 @@
                 "archived": false,
                 "id": 99273369,
                 "language": "Python",
-                "last_commit": "2026-08-25T23:40:19Z",
+                "last_commit": "2026-08-27T07:35:47Z",
                 "owner": "NeurodataWithoutBorders",
                 "repo": "pynwb",
                 "stars": 224
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-12T21:45:55Z",
                 "owner": "fieldtrip",
                 "repo": "fieldtrip",
-                "stars": 981
+                "stars": 982
               }
             }
           ],
@@ -478,7 +478,7 @@
                 "last_commit": "2026-07-14T14:48:31Z",
                 "owner": "NeuromatchAcademy",
                 "repo": "course-content",
-                "stars": 3118
+                "stars": 3119
               }
             }
           ],
@@ -497,10 +497,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-26T19:45:46Z",
+                "last_commit": "2026-08-26T21:15:40Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78655
+                "stars": 78670
               }
             },
             {
@@ -543,9 +543,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:05:58.584Z",
-    "original_repository": "analyticalmonk/awesome-neuroscience",
-    "original_repository_id": 87163730,
+    "last_updated": "2026-08-27T11:54:36.979Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 87163730,
+      "language": null,
+      "last_commit": "2026-06-24T09:55:59Z",
+      "owner": "analyticalmonk",
+      "repo": "awesome-neuroscience",
+      "stars": 1703
+    },
     "original_repository_sha": "33ca06398bff26a53a913f0ea7a600e5e18164eb",
     "enhanced_repository": "enhansome/enhansome-neuroscience",
     "enhanced_repository_description": null,
