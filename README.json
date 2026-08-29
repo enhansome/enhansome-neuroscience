@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 126897385,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:02:35Z",
+                "last_commit": "2026-08-28T15:45:38Z",
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5746
-              }
+                "stars": 5747
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 1301584,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:19:57Z",
+                "last_commit": "2026-08-28T19:17:03Z",
                 "owner": "mne-tools",
                 "repo": "mne-python",
                 "stars": 3497
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "psychopy",
                 "repo": "psychopy",
                 "stars": 2069
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "BindsNET",
                 "repo": "bindsnet",
                 "stars": 1695
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "nilearn",
                 "repo": "nilearn",
                 "stars": 1425
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "brian-team",
                 "repo": "brian2",
                 "stars": 1222
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "nengo",
                 "repo": "nengo",
                 "stars": 941
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -119,11 +126,12 @@
                 "archived": false,
                 "id": 196581117,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:13:08Z",
+                "last_commit": "2026-08-28T15:56:06Z",
                 "owner": "SpikeInterface",
                 "repo": "spikeinterface",
                 "stars": 838
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -134,11 +142,12 @@
                 "archived": false,
                 "id": 505209,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:02:49Z",
+                "last_commit": "2026-08-28T04:47:27Z",
                 "owner": "dipy",
                 "repo": "dipy",
                 "stars": 837
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "nipy",
                 "repo": "nipype",
                 "stars": 834
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "nipy",
                 "repo": "nibabel",
                 "stars": 790
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -179,11 +190,12 @@
                 "archived": false,
                 "id": 53175327,
                 "language": "HTML",
-                "last_commit": "2026-08-27T21:03:02Z",
+                "last_commit": "2026-08-28T20:47:04Z",
                 "owner": "nipreps",
                 "repo": "fmriprep",
                 "stars": 746
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "flatironinstitute",
                 "repo": "CaImAn",
                 "stars": 734
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -209,11 +222,12 @@
                 "archived": false,
                 "id": 887977189,
                 "language": "Python",
-                "last_commit": "2026-08-27T21:03:05Z",
+                "last_commit": "2026-08-28T17:13:42Z",
                 "owner": "thousandbrainsproject",
                 "repo": "tbp.monty",
                 "stars": 580
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -224,11 +238,12 @@
                 "archived": false,
                 "id": 71627569,
                 "language": "C++",
-                "last_commit": "2026-08-27T22:59:35Z",
+                "last_commit": "2026-08-28T23:56:13Z",
                 "owner": "neuronsimulator",
                 "repo": "nrn",
                 "stars": 538
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "MouseLand",
                 "repo": "suite2p",
                 "stars": 469
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "AllenInstitute",
                 "repo": "AllenSDK",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "NeuralEnsemble",
                 "repo": "python-neo",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "nipy",
                 "repo": "nitime",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "NeuralEnsemble",
                 "repo": "elephant",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -318,7 +338,8 @@
                 "owner": "NeurodataWithoutBorders",
                 "repo": "pynwb",
                 "stars": 224
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -333,7 +354,8 @@
                 "owner": "expyriment",
                 "repo": "expyriment",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -348,7 +370,8 @@
                 "owner": "NeuroDiag",
                 "repo": "PyNoetic-official",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             }
           ],
           "description": null,
@@ -370,7 +393,8 @@
                 "owner": "fieldtrip",
                 "repo": "fieldtrip",
                 "stars": 982
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             }
           ],
           "description": null,
@@ -392,7 +416,8 @@
                 "owner": "BlueBrain",
                 "repo": "Brayns",
                 "stars": 305
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             }
           ],
           "description": null,
@@ -414,7 +439,8 @@
                 "owner": "aces",
                 "repo": "brainbrowser",
                 "stars": 397
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             }
           ],
           "description": null,
@@ -436,7 +462,8 @@
                 "owner": "cwatson",
                 "repo": "brainGraph",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -451,7 +478,8 @@
                 "owner": "natverse",
                 "repo": "nat",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             }
           ],
           "description": null,
@@ -479,7 +507,8 @@
                 "owner": "NeuromatchAcademy",
                 "repo": "course-content",
                 "stars": 3121
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             }
           ],
           "description": "Massive Open Online Courses (MOOCs) are free Web-based distance learning programs that are designed for the participation of large numbers of geographically dispersed students. MOOCs may be patterned on a college or university course or may be less structured.",
@@ -497,11 +526,12 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-27T22:41:18Z",
+                "last_commit": "2026-08-28T16:22:22Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78678
-              }
+                "stars": 78693
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -516,7 +546,8 @@
                 "owner": "PhABC",
                 "repo": "neuroSummerSchools",
                 "stars": 229
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             },
             {
               "node_type": "item",
@@ -531,7 +562,8 @@
                 "owner": "PTDZ",
                 "repo": "SORTED",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T01:46:29.661Z"
             }
           ],
           "description": null,
@@ -543,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:11:47.264Z",
+    "last_updated": "2026-08-29T01:46:29.661Z",
     "original_repository_info": {
       "archived": false,
       "id": 87163730,
@@ -551,7 +583,7 @@
       "last_commit": "2026-06-24T09:55:59Z",
       "owner": "analyticalmonk",
       "repo": "awesome-neuroscience",
-      "stars": 1704
+      "stars": 1705
     },
     "original_repository_sha": "33ca06398bff26a53a913f0ea7a600e5e18164eb",
     "enhanced_repository": "enhansome/enhansome-neuroscience",
