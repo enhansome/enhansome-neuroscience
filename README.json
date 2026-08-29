@@ -12,12 +12,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans",
+                "homepage": "http://deeplabcut.org",
                 "id": 126897385,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-28T15:45:38Z",
+                "open_issues": 51,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5747
+                "stars": 5747,
+                "topics": [
+                  "animal-pose-estimation",
+                  "behavior-analysis",
+                  "deep-learning",
+                  "deeplabcut",
+                  "feature-detectors",
+                  "keypoint-detection",
+                  "keypoint-tracking",
+                  "labeling-tool",
+                  "pose-estimation",
+                  "toolbox"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -28,12 +44,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python",
+                "homepage": "https://mne.tools",
                 "id": 1301584,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T19:17:03Z",
+                "open_issues": 628,
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3497
+                "stars": 3497,
+                "topics": [
+                  "ecog",
+                  "eeg",
+                  "electrocorticography",
+                  "electroencephalography",
+                  "machine-learning",
+                  "magnetoencephalography",
+                  "meg",
+                  "neuroimaging",
+                  "neuroscience",
+                  "python",
+                  "statistics",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -44,12 +78,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "For running psychology and neuroscience experiments",
+                "homepage": "http://www.psychopy.org",
                 "id": 879116,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T14:45:05Z",
+                "open_issues": 169,
                 "owner": "psychopy",
                 "repo": "psychopy",
-                "stars": 2069
+                "stars": 2069,
+                "topics": [
+                  "experiment",
+                  "experiment-control",
+                  "experimental-design",
+                  "linguistics",
+                  "neuroscience",
+                  "psycholinguistics",
+                  "psychology",
+                  "psychophysics",
+                  "psychopy",
+                  "python",
+                  "science"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -60,12 +111,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simulation of spiking neural networks (SNNs) using PyTorch.",
+                "homepage": null,
                 "id": 120948040,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-20T15:19:52Z",
+                "open_issues": 15,
                 "owner": "BindsNET",
                 "repo": "bindsnet",
-                "stars": 1695
+                "stars": 1695,
+                "topics": [
+                  "dynamic",
+                  "gpu-computing",
+                  "machine-learning",
+                  "neurons",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "simulation",
+                  "snn",
+                  "spiking-neural-networks",
+                  "stdp",
+                  "synapse"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -76,12 +144,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Machine learning for NeuroImaging in Python",
+                "homepage": "http://nilearn.github.io",
                 "id": 1235740,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T15:45:03Z",
+                "open_issues": 290,
                 "owner": "nilearn",
                 "repo": "nilearn",
-                "stars": 1425
+                "stars": 1425,
+                "topics": [
+                  "brain-connectivity",
+                  "brain-imaging",
+                  "brain-mri",
+                  "decoding",
+                  "fmri",
+                  "machine-learning",
+                  "mvpa",
+                  "neuroimaging",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -92,12 +175,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Brian is a free, open source simulator for spiking neural networks. ",
+                "homepage": "http://briansimulator.org",
                 "id": 6884056,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-01T09:02:50Z",
+                "open_issues": 207,
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1222
+                "stars": 1222,
+                "topics": [
+                  "biological-simulations",
+                  "brian",
+                  "brian2",
+                  "code-generation",
+                  "computational-neuroscience",
+                  "differential-equations",
+                  "neuroscience",
+                  "python",
+                  "science",
+                  "simulation-framework",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -108,12 +208,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python library for creating and simulating large-scale brain models",
+                "homepage": "https://www.nengo.ai/nengo",
                 "id": 9568894,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-02T14:25:10Z",
+                "open_issues": 140,
                 "owner": "nengo",
                 "repo": "nengo",
-                "stars": 941
+                "stars": 941,
+                "topics": [
+                  "nengo",
+                  "neural-networks",
+                  "neuroscience",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -124,12 +234,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python-based module for creating flexible and robust spike sorting pipelines.",
+                "homepage": "https://spikeinterface.readthedocs.io",
                 "id": 196581117,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:56:06Z",
+                "open_issues": 343,
                 "owner": "SpikeInterface",
                 "repo": "spikeinterface",
-                "stars": 838
+                "stars": 838,
+                "topics": [
+                  "electrophysiology",
+                  "neuroscience",
+                  "spike-sorting"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -140,12 +259,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DIPY is the paragon 3D/4D+ medical imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging.",
+                "homepage": "https://dipy.org",
                 "id": 505209,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T04:47:27Z",
+                "open_issues": 132,
                 "owner": "dipy",
                 "repo": "dipy",
-                "stars": 837
+                "stars": 837,
+                "topics": [
+                  "bundles",
+                  "contextual-enhancement",
+                  "denoising",
+                  "diffusion-mri",
+                  "dki",
+                  "dti",
+                  "machine-learning",
+                  "medical-imaging",
+                  "microstructure",
+                  "neuroanatomy",
+                  "neuroimaging",
+                  "patch2self",
+                  "python",
+                  "registration",
+                  "segmentation",
+                  "self-supervised-learning",
+                  "spherical-harmonics",
+                  "tracking",
+                  "tractography",
+                  "tractometry"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -156,12 +301,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Workflows and interfaces for neuroimaging packages",
+                "homepage": "https://nipype.readthedocs.org/en/latest/",
                 "id": 791477,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T15:18:16Z",
+                "open_issues": 424,
                 "owner": "nipy",
                 "repo": "nipype",
-                "stars": 834
+                "stars": 834,
+                "topics": [
+                  "big-data",
+                  "brain-imaging",
+                  "brainweb",
+                  "data-science",
+                  "dataflow",
+                  "dataflow-programming",
+                  "neuroimaging",
+                  "python",
+                  "workflow-engine"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -172,12 +332,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package to access a cacophony of neuro-imaging file formats",
+                "homepage": "http://nipy.org/nibabel/",
                 "id": 791352,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T20:17:32Z",
+                "open_issues": 156,
                 "owner": "nipy",
                 "repo": "nibabel",
-                "stars": 790
+                "stars": 790,
+                "topics": [
+                  "afni-brik-head",
+                  "brain-imaging",
+                  "cifti-2",
+                  "data-formats",
+                  "dicom",
+                  "ecat",
+                  "gifti",
+                  "minc",
+                  "neuroimaging",
+                  "nifti",
+                  "python",
+                  "streamlines",
+                  "tck",
+                  "trk"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -188,12 +368,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fMRIPrep is a robust and easy-to-use pipeline for preprocessing of diverse fMRI data. The transparent workflow dispenses of manual intervention, thereby ensuring the reproducibility of the results.",
+                "homepage": "https://fmriprep.org",
                 "id": 53175327,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:47:04Z",
+                "open_issues": 341,
                 "owner": "nipreps",
                 "repo": "fmriprep",
-                "stars": 746
+                "stars": 746,
+                "topics": [
+                  "bids",
+                  "brain-imaging",
+                  "fmri",
+                  "fmri-preprocessing",
+                  "image-processing",
+                  "neuroimaging"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -204,12 +396,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Computational toolbox for large scale Calcium Imaging Analysis, including movie handling, motion correction, source extraction, spike deconvolution and result visualization.",
+                "homepage": "https://caiman.readthedocs.io",
                 "id": 40307735,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-02T21:54:19Z",
+                "open_issues": 101,
                 "owner": "flatironinstitute",
                 "repo": "CaImAn",
-                "stars": 734
+                "stars": 734,
+                "topics": [
+                  "2-photon",
+                  "calcium-imaging",
+                  "cnmf",
+                  "deconvolution",
+                  "motion-correction",
+                  "source-extraction"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -220,12 +424,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monty is a sensorimotor learning framework based on the thousand brains theory of the neocortex.",
+                "homepage": "https://thousandbrainsproject.readme.io",
                 "id": 887977189,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:13:42Z",
+                "open_issues": 72,
                 "owner": "thousandbrainsproject",
                 "repo": "tbp.monty",
-                "stars": 580
+                "stars": 580,
+                "topics": [
+                  "machine-learning",
+                  "sensorimotor-inference",
+                  "sensorimotor-learning",
+                  "thousandbrainsproject"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -236,12 +450,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NEURON Simulator",
+                "homepage": "https://www.neuronsimulator.org",
                 "id": 71627569,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T23:56:13Z",
+                "open_issues": 481,
                 "owner": "neuronsimulator",
                 "repo": "nrn",
-                "stars": 538
+                "stars": 538,
+                "topics": [
+                  "high-performance-computing",
+                  "neuron",
+                  "neuroscience",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -252,12 +476,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cell detection in calcium imaging recordings",
+                "homepage": "https://suite2p.readthedocs.io/",
                 "id": 141175642,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T18:10:35Z",
+                "open_issues": 58,
                 "owner": "MouseLand",
                 "repo": "suite2p",
-                "stars": 469
+                "stars": 469,
+                "topics": [
+                  "data-analysis",
+                  "imaging",
+                  "neuroscience"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -268,12 +501,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for reading and processing Allen Institute for Brain Science data",
+                "homepage": "https://allensdk.readthedocs.io/en/latest/",
                 "id": 35236880,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-06T18:13:56Z",
+                "open_issues": 383,
                 "owner": "AllenInstitute",
                 "repo": "AllenSDK",
-                "stars": 396
+                "stars": 396,
+                "topics": [
+                  "bioinformatics",
+                  "scientific"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -284,12 +525,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neo is a package for representing electrophysiology data in Python, together with support for reading a wide range of neurophysiology file formats",
+                "homepage": "http://neo.readthedocs.io/en/latest/",
                 "id": 3949530,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T18:37:09Z",
+                "open_issues": 169,
                 "owner": "NeuralEnsemble",
                 "repo": "python-neo",
-                "stars": 362
+                "stars": 362,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -300,12 +546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Timeseries analysis for neuroscience data",
+                "homepage": "http://nipy.org/nitime",
                 "id": 294865,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-15T00:47:29Z",
+                "open_issues": 19,
                 "owner": "nipy",
                 "repo": "nitime",
-                "stars": 261
+                "stars": 261,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -316,12 +567,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elephant is the Electrophysiology Analysis Toolkit",
+                "homepage": "http://www.python-elephant.org",
                 "id": 10311278,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-21T13:46:32Z",
+                "open_issues": 45,
                 "owner": "NeuralEnsemble",
                 "repo": "elephant",
-                "stars": 244
+                "stars": 244,
+                "topics": [
+                  "data-analysis",
+                  "electrophysiology",
+                  "hacktoberfest",
+                  "neurophysiology",
+                  "neuroscience",
+                  "python",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -332,12 +596,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python API for working with Neurodata stored in the NWB Format",
+                "homepage": "https://pynwb.readthedocs.io",
                 "id": 99273369,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T07:35:47Z",
+                "open_issues": 284,
                 "owner": "NeurodataWithoutBorders",
                 "repo": "pynwb",
-                "stars": 224
+                "stars": 224,
+                "topics": [
+                  "cross-platform",
+                  "data-format",
+                  "hdf",
+                  "hdf5",
+                  "neurodata-without-borders",
+                  "neuroscience",
+                  "nwb",
+                  "nwb-n",
+                  "open-data",
+                  "open-science",
+                  "open-source",
+                  "pynwb",
+                  "python",
+                  "reproducible-research"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -348,12 +632,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments",
+                "homepage": "www.expyriment.org",
                 "id": 11923647,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-18T13:05:09Z",
+                "open_issues": 4,
                 "owner": "expyriment",
                 "repo": "expyriment",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "cognitive-science",
+                  "experiment-control",
+                  "neuroimaging-experiments",
+                  "neuroscience",
+                  "openscience",
+                  "opensesame",
+                  "psychology",
+                  "psychology-experiments",
+                  "python-library",
+                  "science",
+                  "stimulus-presentation"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -364,12 +665,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyNoetic: A Modular Python Framework for No-Code Development of EEG Brain-Computer Interfaces",
+                "homepage": "https://neurodiag.github.io/PyNoetic/",
                 "id": 720144544,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-03T17:56:23Z",
+                "open_issues": 0,
                 "owner": "NeuroDiag",
                 "repo": "PyNoetic-official",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "bci-protyping",
+                  "bci-systems",
+                  "brain-computer-interface",
+                  "cognitive-neuroscience",
+                  "eeg-signals",
+                  "eeg-signals-processing",
+                  "electroencephalogram",
+                  "emotiv",
+                  "framework",
+                  "machine-learning",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             }
@@ -387,12 +705,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The MATLAB toolbox for MEG, EEG and iEEG analysis",
+                "homepage": "http://www.fieldtriptoolbox.org",
                 "id": 7785050,
                 "language": "MATLAB",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-12T21:45:55Z",
+                "open_issues": 97,
                 "owner": "fieldtrip",
                 "repo": "fieldtrip",
-                "stars": 982
+                "stars": 982,
+                "topics": [
+                  "analysis",
+                  "beamformer",
+                  "bids",
+                  "brain",
+                  "connectivity",
+                  "dipole",
+                  "donders",
+                  "ecog",
+                  "eeg",
+                  "fieldtrip",
+                  "ieeg",
+                  "matlab",
+                  "meg",
+                  "neuroimaging",
+                  "neuroscience",
+                  "seeg",
+                  "statistics",
+                  "time-frequency"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             }
@@ -410,12 +752,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visualizer for large-scale and interactive ray-tracing of neurons ",
+                "homepage": null,
                 "id": 61363694,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-03-12T20:34:59Z",
+                "open_issues": 1,
                 "owner": "BlueBrain",
                 "repo": "Brayns",
-                "stars": 305
+                "stars": 305,
+                "topics": [
+                  "brain",
+                  "interactive",
+                  "json-rpc",
+                  "large-scale",
+                  "neurons",
+                  "neuroscience",
+                  "ospray",
+                  "pathtracing",
+                  "python",
+                  "raytracing",
+                  "visualization",
+                  "volume-rendering",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             }
@@ -433,12 +794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web-based visualization tools for neurological data.",
+                "homepage": "https://brainbrowser.cbrain.mcgill.ca/",
                 "id": 17673490,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-11-18T15:08:33Z",
+                "open_issues": 40,
                 "owner": "aces",
                 "repo": "brainbrowser",
-                "stars": 397
+                "stars": 397,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             }
@@ -456,12 +822,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph theory analysis of brain MRI data",
+                "homepage": null,
                 "id": 29701965,
                 "language": "R",
+                "license": null,
                 "last_commit": "2024-02-20T16:46:02Z",
+                "open_issues": 11,
                 "owner": "cwatson",
                 "repo": "brainGraph",
-                "stars": 197
+                "stars": 197,
+                "topics": [
+                  "brain-connectivity",
+                  "brain-imaging",
+                  "complex-networks",
+                  "connectome",
+                  "connectomics",
+                  "fmri",
+                  "graph-theory",
+                  "mri",
+                  "network-analysis",
+                  "neuroimaging",
+                  "neuroscience",
+                  "r",
+                  "statistics",
+                  "tractography"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -472,12 +858,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeuroAnatomy Toolbox: An R package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.",
+                "homepage": "https://natverse.org/nat/",
                 "id": 15578625,
                 "language": "R",
+                "license": null,
                 "last_commit": "2026-07-30T22:27:18Z",
+                "open_issues": 57,
                 "owner": "natverse",
                 "repo": "nat",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "3d",
+                  "connectomics",
+                  "cran",
+                  "image-analysis",
+                  "neuroanatomy",
+                  "neuroanatomy-toolbox",
+                  "neuron",
+                  "neuron-morphology",
+                  "neuroscience",
+                  "r",
+                  "visualisation"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             }
@@ -501,12 +904,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NMA Computational Neuroscience course",
+                "homepage": "https://compneuro.neuromatch.io",
                 "id": 262856980,
                 "language": "Jupyter Notebook",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-07-14T14:48:31Z",
+                "open_issues": 32,
                 "owner": "NeuromatchAcademy",
                 "repo": "course-content",
-                "stars": 3121
+                "stars": 3121,
+                "topics": [
+                  "dynamic-systems",
+                  "machine-learning",
+                  "neuroscience",
+                  "stochastic-processes"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             }
@@ -524,12 +937,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A topic-centric list of HQ open datasets.",
+                "homepage": "https://awesomedataworld.slack.com",
                 "id": 26898879,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:22:22Z",
+                "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78693
+                "stars": 78694,
+                "topics": [
+                  "aaron-swartz",
+                  "awesome-public-datasets",
+                  "datasets",
+                  "opendata"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -540,12 +963,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of summer schools in neuroscience and related fields",
+                "homepage": null,
                 "id": 79660456,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-05-10T07:44:52Z",
+                "open_issues": 3,
                 "owner": "PhABC",
                 "repo": "neuroSummerSchools",
-                "stars": 229
+                "stars": 229,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             },
@@ -556,12 +984,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SORTED: A curated collection of interesting ideas, tools, and resources in neuroscience, data management, and data science, all in the spirit of Open Science. Additionally, it includes interesting miscellaneous links related to AI tools and productivity.",
+                "homepage": null,
                 "id": 518545346,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-08-10T21:17:42Z",
+                "open_issues": 0,
                 "owner": "PTDZ",
                 "repo": "SORTED",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "awesome-list",
+                  "brain",
+                  "collections",
+                  "data",
+                  "data-analysis",
+                  "data-science",
+                  "electrophysiology",
+                  "fmri",
+                  "ideas",
+                  "knowledge-sharing",
+                  "linkshare",
+                  "list",
+                  "mri",
+                  "neuroscience",
+                  "open-science",
+                  "research",
+                  "resources",
+                  "science-ideas",
+                  "statistics",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
             }
@@ -575,15 +1029,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:46:29.661Z",
+    "last_updated": "2026-08-29T04:30:30.614Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome neuroscience libraries, software and any content related to the domain.",
+      "homepage": "https://www.akashtandon.in/awesome-neuroscience/",
       "id": 87163730,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-24T09:55:59Z",
+      "open_issues": 6,
       "owner": "analyticalmonk",
       "repo": "awesome-neuroscience",
-      "stars": 1705
+      "stars": 1705,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "brain",
+        "eeg",
+        "hacktoberfest",
+        "intelligence",
+        "list",
+        "matlab",
+        "meg",
+        "mooc",
+        "neuroscience",
+        "nirs",
+        "python"
+      ]
     },
     "original_repository_sha": "33ca06398bff26a53a913f0ea7a600e5e18164eb",
     "enhanced_repository": "enhansome/enhansome-neuroscience",
