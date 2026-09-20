@@ -21,7 +21,7 @@
                 "open_issues": 45,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5774,
+                "stars": 5775,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -50,7 +50,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-18T16:53:19Z",
-                "open_issues": 618,
+                "open_issues": 621,
                 "owner": "mne-tools",
                 "repo": "mne-python",
                 "stars": 3519,
@@ -83,11 +83,11 @@
                 "id": 879116,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T15:09:35Z",
+                "last_commit": "2026-09-20T02:02:28Z",
                 "open_issues": 175,
                 "owner": "psychopy",
                 "repo": "psychopy",
-                "stars": 2082,
+                "stars": 2083,
                 "topics": [
                   "experiment",
                   "experiment-control",
@@ -120,7 +120,7 @@
                 "open_issues": 289,
                 "owner": "nilearn",
                 "repo": "nilearn",
-                "stars": 1435,
+                "stars": 1439,
                 "topics": [
                   "brain-connectivity",
                   "brain-imaging",
@@ -423,7 +423,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-19T19:00:20Z",
-                "open_issues": 473,
+                "open_issues": 474,
                 "owner": "neuronsimulator",
                 "repo": "nrn",
                 "stars": 542,
@@ -449,7 +449,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T17:29:12Z",
-                "open_issues": 66,
+                "open_issues": 67,
                 "owner": "MouseLand",
                 "repo": "suite2p",
                 "stars": 473,
@@ -522,7 +522,7 @@
                 "open_issues": 19,
                 "owner": "nipy",
                 "repo": "nitime",
-                "stars": 261,
+                "stars": 262,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:29.661Z"
@@ -540,7 +540,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-06-21T13:46:32Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "NeuralEnsemble",
                 "repo": "elephant",
                 "stars": 244,
@@ -901,7 +901,7 @@
                 "open_issues": 33,
                 "owner": "NeuromatchAcademy",
                 "repo": "course-content",
-                "stars": 3133,
+                "stars": 3135,
                 "topics": [
                   "dynamic-systems",
                   "machine-learning",
@@ -934,7 +934,7 @@
                 "open_issues": 160,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79043,
+                "stars": 79058,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -1017,7 +1017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T20:45:15.678Z",
+    "last_updated": "2026-09-20T20:52:33.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuroscience libraries, software and any content related to the domain.",
@@ -1029,7 +1029,7 @@
       "open_issues": 5,
       "owner": "analyticalmonk",
       "repo": "awesome-neuroscience",
-      "stars": 1718,
+      "stars": 1721,
       "topics": [
         "awesome",
         "awesome-list",
