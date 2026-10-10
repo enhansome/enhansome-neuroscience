@@ -49,11 +49,11 @@
                 "id": 1301584,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-09T14:56:46Z",
-                "open_issues": 617,
+                "last_commit": "2026-10-10T13:45:19Z",
+                "open_issues": 610,
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3539,
+                "stars": 3540,
                 "topics": [
                   "ecog",
                   "eeg",
@@ -84,10 +84,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-08T13:22:07Z",
-                "open_issues": 167,
+                "open_issues": 169,
                 "owner": "psychopy",
                 "repo": "psychopy",
-                "stars": 2093,
+                "stars": 2094,
                 "topics": [
                   "experiment",
                   "experiment-control",
@@ -184,7 +184,7 @@
                 "open_issues": 140,
                 "owner": "nengo",
                 "repo": "nengo",
-                "stars": 950,
+                "stars": 951,
                 "topics": [
                   "nengo",
                   "neural-networks",
@@ -207,7 +207,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-09T09:15:58Z",
-                "open_issues": 321,
+                "open_issues": 320,
                 "owner": "SpikeInterface",
                 "repo": "spikeinterface",
                 "stars": 858,
@@ -372,7 +372,7 @@
                 "open_issues": 102,
                 "owner": "flatironinstitute",
                 "repo": "CaImAn",
-                "stars": 740,
+                "stars": 741,
                 "topics": [
                   "2-photon",
                   "calcium-imaging",
@@ -397,7 +397,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-09T20:53:02Z",
-                "open_issues": 73,
+                "open_issues": 74,
                 "owner": "thousandbrainsproject",
                 "repo": "tbp.monty",
                 "stars": 597,
@@ -426,7 +426,7 @@
                 "open_issues": 431,
                 "owner": "neuronsimulator",
                 "repo": "nrn",
-                "stars": 553,
+                "stars": 555,
                 "topics": [
                   "high-performance-computing",
                   "neuron",
@@ -452,7 +452,7 @@
                 "open_issues": 68,
                 "owner": "MouseLand",
                 "repo": "suite2p",
-                "stars": 473,
+                "stars": 474,
                 "topics": [
                   "data-analysis",
                   "imaging",
@@ -901,7 +901,7 @@
                 "open_issues": 33,
                 "owner": "NeuromatchAcademy",
                 "repo": "course-content",
-                "stars": 3140,
+                "stars": 3141,
                 "topics": [
                   "dynamic-systems",
                   "machine-learning",
@@ -934,7 +934,7 @@
                 "open_issues": 163,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79397,
+                "stars": 79415,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -1017,7 +1017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T22:41:57.854Z",
+    "last_updated": "2026-10-10T21:48:16.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuroscience libraries, software and any content related to the domain.",
@@ -1029,7 +1029,7 @@
       "open_issues": 8,
       "owner": "analyticalmonk",
       "repo": "awesome-neuroscience",
-      "stars": 1731,
+      "stars": 1732,
       "topics": [
         "awesome",
         "awesome-list",
