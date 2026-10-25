@@ -21,7 +21,7 @@
                 "open_issues": 51,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5801,
+                "stars": 5802,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -49,11 +49,11 @@
                 "id": 1301584,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-23T19:50:09Z",
-                "open_issues": 614,
+                "last_commit": "2026-10-25T07:17:33Z",
+                "open_issues": 613,
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3563,
+                "stars": 3566,
                 "topics": [
                   "ecog",
                   "eeg",
@@ -84,10 +84,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-23T17:09:40Z",
-                "open_issues": 156,
+                "open_issues": 157,
                 "owner": "psychopy",
                 "repo": "psychopy",
-                "stars": 2111,
+                "stars": 2112,
                 "topics": [
                   "experiment",
                   "experiment-control",
@@ -120,7 +120,7 @@
                 "open_issues": 278,
                 "owner": "nilearn",
                 "repo": "nilearn",
-                "stars": 1449,
+                "stars": 1451,
                 "topics": [
                   "brain-connectivity",
                   "brain-imaging",
@@ -151,7 +151,7 @@
                 "open_issues": 205,
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1249,
+                "stars": 1250,
                 "topics": [
                   "biological-simulations",
                   "brian",
@@ -207,10 +207,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-23T14:55:22Z",
-                "open_issues": 336,
+                "open_issues": 337,
                 "owner": "SpikeInterface",
                 "repo": "spikeinterface",
-                "stars": 868,
+                "stars": 870,
                 "topics": [
                   "electrophysiology",
                   "neuroscience",
@@ -423,7 +423,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-24T04:22:24Z",
-                "open_issues": 433,
+                "open_issues": 435,
                 "owner": "neuronsimulator",
                 "repo": "nrn",
                 "stars": 561,
@@ -934,7 +934,7 @@
                 "open_issues": 165,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79721,
+                "stars": 79739,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -1017,7 +1017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T20:54:07.259Z",
+    "last_updated": "2026-10-25T20:55:10.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuroscience libraries, software and any content related to the domain.",
