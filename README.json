@@ -21,7 +21,7 @@
                 "open_issues": 59,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5829,
+                "stars": 5831,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -50,7 +50,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-20T18:10:17Z",
-                "open_issues": 633,
+                "open_issues": 637,
                 "owner": "mne-tools",
                 "repo": "mne-python",
                 "stars": 3614,
@@ -305,7 +305,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T17:51:12Z",
-                "open_issues": 173,
+                "open_issues": 174,
                 "owner": "nipy",
                 "repo": "nibabel",
                 "stars": 809,
@@ -452,7 +452,7 @@
                 "open_issues": 73,
                 "owner": "MouseLand",
                 "repo": "suite2p",
-                "stars": 478,
+                "stars": 479,
                 "topics": [
                   "data-analysis",
                   "imaging",
@@ -569,7 +569,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-10T21:37:31Z",
-                "open_issues": 299,
+                "open_issues": 300,
                 "owner": "NeurodataWithoutBorders",
                 "repo": "pynwb",
                 "stars": 226,
@@ -930,11 +930,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-21T16:51:05Z",
+                "last_commit": "2026-11-22T17:14:18Z",
                 "open_issues": 171,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 80240,
+                "stars": 80244,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -1017,7 +1017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T23:23:49.399Z",
+    "last_updated": "2026-11-22T23:38:14.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuroscience libraries, software and any content related to the domain.",
